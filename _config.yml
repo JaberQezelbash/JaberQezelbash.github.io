@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaber Qezelbash"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD student at University of Florida"
   location         : "Gainesville, FL, USA"
   employer         :
