@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jaber Qezelbash"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A 3rd year PhD student at University of Florida"
+  location         : "Gainesville, FL, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=CBPXwVgAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/JaberQezelbash"
   google_plus      :
   keybase          :
   instagram        :
