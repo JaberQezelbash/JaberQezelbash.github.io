@@ -9,7 +9,7 @@ author_profile: true
 
 Lecturer
 -----
-1. Invwntory Control and Planning (1).
+1. Inventory Control and Planning (1).
     *Full responsibily for teaching this course to undergraduate students.*
 
 Teaching assistant
