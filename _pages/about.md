@@ -15,5 +15,6 @@ Before starting my PhD, I worked as a part time Data Analyst for 4 years. During
 
 Latest
 ------
-**December 23:** Accpted publication titled: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
-**December 22:** A survey of machine learning in kidney disease diagnosis." 
+**1) December 23:** Accpted publication titled: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
+
+**2) December 22:** A survey of machine learning in kidney disease diagnosis." 
