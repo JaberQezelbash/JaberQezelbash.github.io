@@ -17,4 +17,4 @@ Latest
 ------
 **1) December 23:** Accpted publication titled: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
 
-**2) December 22:** A survey of machine learning in kidney disease diagnosis." 
+**2) December 22:** Accpted publication titled: "A survey of machine learning in kidney disease diagnosis." 
