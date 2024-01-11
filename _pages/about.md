@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student at the Department of Industrial & Systems Engineering, University of Florida. I am pursuing my current studies under the supervision of Dr. K. Hicklin. My research mailnly focuses on Machine Learning and Optimization with applications in healthcare. 
+I am a third year Ph.D. student at the Department of Industrial & Systems Engineering, University of Florida. I am pursuing my current studies under the supervision of Dr. K. Hicklin. My research mailnly focuses on Machine Learning and Optimization with applications in healthcare. 
 
 Before starting my PhD, I worked as a part time Data Analyst for 4 years. During the same time, I was also a Lecturer at my Bachelor's university.
 
