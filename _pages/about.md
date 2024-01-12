@@ -18,3 +18,12 @@ Latest
 **1) December, 2023:** Accpted publication titled: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
 
 **2) December, 2022:** Accpted publication titled: "A survey of machine learning in kidney disease diagnosis." 
+
+
+
+Services
+------
+1) Journals Peer Reviewer:
+- *Transportation letters: The International Journal of Transportation Research*
+- *Frontiers in Artificial Intelligence*
+- *International Journal of Intelligent Systems*
