@@ -15,9 +15,9 @@ Before starting my PhD, I worked as a part time Data Analyst for 4 years. During
 
 Latest
 ------
-**1) December, 2023:** Accpted publication titled: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
+**1) December, 2023:** Accepted publication: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
 
-**2) December, 2022:** Accpted publication titled: "A survey of machine learning in kidney disease diagnosis." 
+**2) December, 2022:** Accepted publication: "A survey of machine learning in kidney disease diagnosis." 
 
 
 
