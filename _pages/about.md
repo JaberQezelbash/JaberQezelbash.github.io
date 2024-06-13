@@ -24,6 +24,6 @@ Latest
 Services
 ------
 1) Journals Peer Reviewer:
-- *Transportation letters: The International Journal of Transportation Research*
 - *Frontiers in Artificial Intelligence*
 - *International Journal of Intelligent Systems*
+- *Transportation letters*
