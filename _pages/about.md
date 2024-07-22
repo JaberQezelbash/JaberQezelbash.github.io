@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 
-I am a third-year Ph.D. student at the Department of Industrial & Systems Engineering, University of Florida. I am pursuing my current studies under the supervision of Dr. K. Hicklin. My research mainly focuses on Machine Learning and Optimization with applications in healthcare. 
+Jaber is a Ph.D. student in the Department of Industrial & Systems Engineering at the University of Florida, pursuing his current studies under the supervision of Dr. *K. Hicklin*. His research primarily focuses on Machine Learning and Optimization, particularly in healthcare applications. Currently, he is developing Machine Learning-based Medical Imaging models for Biomedical Informatics.
 
-Before starting my PhD, I worked as a part-time Healthcare Data Scientist for 4 years. During the same time, I was also a Lecturer at my bachelor's university.
+Prior to beginning his Ph.D. studies, Jaber gained four years of experience as a part-time Healthcare Data Scientist. Concurrently, he served as an Instructor at his undergraduate institution.
+
+
+
+
 
 Latest
 ------
