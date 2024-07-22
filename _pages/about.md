@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a third year Ph.D. student at the Department of Industrial & Systems Engineering, University of Florida. I am pursuing my current studies under the supervision of Dr. K. Hicklin. My research mailnly focuses on Machine Learning and Optimization with applications in healthcare. 
+I am a third-year Ph.D. student at the Department of Industrial & Systems Engineering, University of Florida. I am pursuing my current studies under the supervision of Dr. K. Hicklin. My research mainly focuses on Machine Learning and Optimization with applications in healthcare. 
 
-Before starting my PhD, I worked as a part time Data Analyst for 4 years. During the same time, I was also a Lecturer at my Bachelor's university.
+Before starting my PhD, I worked as a part-time Healthcare Data Scientist for 4 years. During the same time, I was also a Lecturer at my bachelor's university.
 
 Latest
 ------
