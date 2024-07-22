@@ -16,7 +16,7 @@ Latest
 ------
 - **November 2023:** Accepted publication: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
 
-- **October 2023:** INFORMS annual meeting and conference: "Deep Learning for Fetal Heart Rate Tracing." 
+- **October 2023:** INFORMS annual meeting and conference, Phonix, AZ. Title: "Deep Learning for Fetal Heart Rate Tracing." 
 
 - **December 2022:** Accepted publication: "A survey of machine learning in kidney disease diagnosis." 
 
