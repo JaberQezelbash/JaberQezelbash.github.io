@@ -11,8 +11,7 @@ redirect_from:
 
 Jaber is a Ph.D. student in the Department of Industrial & Systems Engineering at the University of Florida, pursuing his current studies under the supervision of Dr. *K. Hicklin*. His research primarily focuses on Machine Learning and Optimization, particularly in healthcare applications. Currently, he is developing Machine Learning-based Medical Imaging models for Biomedical Informatics.
 
-Prior to beginning his Ph.D. studies, Jaber gained four years of experience as a part-time Healthcare Data Scientist. Concurrently, he served as an Instructor at his undergraduate institution.
-
+Prior to beginning his Ph.D. studies, Jaber gained four years of experience as a Healthcare Data Scientist and also served as an Instructor at his undergraduate institution.
 
 
 
