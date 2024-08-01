@@ -25,6 +25,7 @@ Latest
 Services
 ------
 1) Journals Peer Reviewer:
+- *Expert Systems with Applications*
 - *Frontiers in Artificial Intelligence*
 - *International Journal of Intelligent Systems*
 - *Transportation letters*
