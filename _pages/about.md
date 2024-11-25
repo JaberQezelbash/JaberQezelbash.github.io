@@ -27,5 +27,6 @@ Services
 1) Journals Peer Reviewer:
 - *Expert Systems with Applications*
 - *Frontiers in Artificial Intelligence*
+- *Informatics in Medicine Unlocked*
 - *International Journal of Intelligent Systems*
 - *Transportation letters*
