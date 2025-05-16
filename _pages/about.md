@@ -16,7 +16,7 @@ Latest
 ------
 - **May 2025:** Accepted publication: "A Hybrid Learnable Fusion of ConvNeXt and Swin Transformer for Optimized Image Classification."
 
-- **October 2024:** Offcially a Ph.D. candidate.
+- **October 2024:** Officially a Ph.D. candidate.
   
 - **November 2023:** Accepted publication: "A fast-response mathematical programming approach for delivering disaster relief goods: an earthquake case study." 
 
