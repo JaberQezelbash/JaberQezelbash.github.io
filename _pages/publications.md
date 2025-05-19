@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+**Qezelbash-Chamak, J.** (2025). DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification, *Biomedical Signal Processing and Control*, -, -. [[View](-)]
 
 **Qezelbash-Chamak, J.** & Hicklin, K. (2025). A Hybrid Learnable Fusion of ConvNeXt and Swin Transformer for Optimized Image Classification, *IoT*, 6(2), 30. [[View](https://www.mdpi.com/2624-831X/6/2/30)]
 
