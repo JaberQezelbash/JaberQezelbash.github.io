@@ -15,9 +15,9 @@ Jaber is a Ph.D. candidate in the Department of Industrial & Systems Engineering
 Latest
 ------
 
-- May 2025: Accepted publication: "[DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification](https://authors.elsevier.com/a/1lHnk6DBR3H8sT)."
+- _May 2025:_ Accepted publication: "[DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification](https://authors.elsevier.com/a/1lHnk6DBR3H8sT)."
 
-- May 2025: Accepted publication: "A Hybrid Learnable Fusion of ConvNeXt and Swin Transformer for Optimized Image Classification."
+- _May 2025_: Accepted publication: "A Hybrid Learnable Fusion of ConvNeXt and Swin Transformer for Optimized Image Classification."
 
 - October 2024: Officially a Ph.D. candidate.
   
