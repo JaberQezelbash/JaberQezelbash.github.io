@@ -32,6 +32,7 @@ Latest
 Services
 ------
 1) Journals Peer Reviewer:
+- *Neurocomputing*
 - *Knowledge-Based Systems*
 - *Expert Systems with Applications*
 - *Artificial Intelligence Review*
