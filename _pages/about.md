@@ -32,6 +32,7 @@ Latest
 Services
 ------
 1) Journals Peer Reviewer:
+- *Knowledge-Based Systems*
 - *Expert Systems with Applications*
 - *Artificial Intelligence Review*
 - *International Journal of Intelligent Systems*
