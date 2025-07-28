@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jàber Qezelbash"
+title                    : "Jaber Qezelbash"
 title_separator          : "-"
-name                     : &name "Jàber Qezelbash"
+name                     : &name "Jaber Qezelbash"
 description              : &description "personal description"
 url                      : https://jaberqezelbash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaber Qezelbash"
+  name             : "Jàber Qezelbash"
   avatar           : "profile.jpg"
   bio              : "PhD Student at University of Florida"
   location         : "Gainesville, FL"
