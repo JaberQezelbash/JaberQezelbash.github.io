@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaber Qezelbash"
+title                    : "Jàber Qezelbash"
 title_separator          : "-"
-name                     : &name "Jaber Qezelbash"
+name                     : &name "Jàber Qezelbash"
 description              : &description "personal description"
 url                      : https://jaberqezelbash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
