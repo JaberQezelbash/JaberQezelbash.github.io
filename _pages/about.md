@@ -46,7 +46,6 @@ Services
 ------
 1) Journals Peer Reviewer:
 
-| Journal | Journal | Journal |
 |---|---|---|
 | *Neurocomputing* | *Knowledge-Based Systems* | *Expert Systems with Applications* |
 | *Artificial Intelligence Review* | *BMC Medical Informatics and Decision Making* | *International Journal of Intelligent Systems* |
