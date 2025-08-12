@@ -40,3 +40,16 @@ Services
 - *Frontiers in Artificial Intelligence*
 - *Informatics in Medicine Unlocked*
 - *Transportation letters*
+
+
+Services
+------
+1) Journals Peer Reviewer:
+
+| Journal | Journal | Journal |
+|---|---|---|
+| *Neurocomputing* | *Knowledge-Based Systems* | *Expert Systems with Applications* |
+| *Artificial Intelligence Review* | *BMC Medical Informatics and Decision Making* | *International Journal of Intelligent Systems* |
+| *Frontiers in Artificial Intelligence* | *Informatics in Medicine Unlocked* | *Discover Sustainability* |
+| *Transportation Letters* |  |  |
+
