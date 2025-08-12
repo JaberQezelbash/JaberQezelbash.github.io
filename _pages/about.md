@@ -49,7 +49,7 @@ Services
 <sub>
 <strong>Journals Peer Reviewer:</strong>  
 <ul>
-<li><i>Neurocomputing</i></li>
+<li>Neurocomputing</li>
 <li><i>Knowledge-Based Systems</i></li>
 <li><i>Expert Systems with Applications</i></li>
 <li><i>Artificial Intelligence Review</i></li>
