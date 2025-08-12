@@ -1,4 +1,3 @@
-
 {% include base_path %}
 
 <!-- start custom head snippets -->
@@ -25,9 +24,7 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
-</script>
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -36,39 +33,31 @@
     }
   });
 </script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML" async></script>
 
-<!-- custom footer styling -->
+<!-- Footer CSS: make the grey footer bar half as tall -->
 <style>
-  /* Show only the license/copyright area */
-  .page__footer-follow,
-  .page__footer .nav,
-  .page__footer .nav__list,
-  .page__footer .social-icons,
-  .page__footer .footer-links {
-    display: none !important;
-  }
-
-  /* Keep full width but make height exactly half of default */
+  /* The theme creates footer height with vertical padding.
+     Halve it to make the grey bar ~half the previous height. */
   .page__footer {
-    padding-top: 0.5rem !important;  /* default is ~1rem top/bottom */
+    padding-top: 0.5rem !important;
     padding-bottom: 0.5rem !important;
   }
 
-  /* Adjust inner container to match half-height look */
-  .page__footer-inner,
-  .footer-license {
-    padding-top: 0.25rem !important; /* default is ~0.5rem */
-    padding-bottom: 0.25rem !important;
-    text-align: center;
+  /* If you are using a custom inner box (e.g., .license-box), halve it too.
+     Safe to leave even if you don't use .license-box. */
+  .license-box {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  /* Prevent child margins from adding extra height */
+  .page__footer p,
+  .page__footer div,
+  .page__footer ul {
+    margin-top: 0;
+    margin-bottom: 0;
   }
 </style>
 
 <!-- end custom head snippets -->
-
-
-
-
-
-
-
