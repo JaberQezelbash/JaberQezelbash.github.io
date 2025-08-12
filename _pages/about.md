@@ -45,4 +45,19 @@ Services
 
 
 
+| Journal Name |
+|--------------|
+| *Neurocomputing* |
+| *Knowledge-Based Systems* |
+| *Expert Systems with Applications* |
+| *Artificial Intelligence Review* |
+| *BMC Medical Informatics and Decision Making* |
+| *International Journal of Intelligent Systems* |
+| *Frontiers in Artificial Intelligence* |
+| *Informatics in Medicine Unlocked* |
+| *Discover Sustainability* |
+| *Transportation Letters* |
+
+
+
 
