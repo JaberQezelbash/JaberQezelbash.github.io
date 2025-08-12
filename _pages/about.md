@@ -46,7 +46,7 @@ Services
 
 
 
-<div style="line-height: 2; margin-top: 0.25rem;">
+<div style="line-height: 1.5; margin-top: 0.25rem;">
 <ul>
   <li><em>Neurocomputing</em></li>
   <li><em>Knowledge-Based Systems</em></li>
