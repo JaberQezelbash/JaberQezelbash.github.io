@@ -44,11 +44,28 @@ Services
 
 Services
 ------
-1) Journals Peer Reviewer:
+**Journal Peer Reviewer**
 
-|---|---|---|
-| *Neurocomputing* | *Knowledge-Based Systems* | *Expert Systems with Applications* |
-| *Artificial Intelligence Review* | *BMC Medical Informatics and Decision Making* | *International Journal of Intelligent Systems* |
-| *Frontiers in Artificial Intelligence* | *Informatics in Medicine Unlocked* | *Discover Sustainability* |
-| *Transportation Letters* |  |  |
+<div class="peer-review">
+<ul>
+  <li><em>Neurocomputing</em></li>
+  <li><em>Knowledge-Based Systems</em></li>
+  <li><em>Expert Systems with Applications</em></li>
+  <li><em>Artificial Intelligence Review</em></li>
+  <li><em>BMC Medical Informatics and Decision Making</em></li>
+  <li><em>International Journal of Intelligent Systems</em></li>
+  <li><em>Frontiers in Artificial Intelligence</em></li>
+  <li><em>Informatics in Medicine Unlocked</em></li>
+  <li><em>Discover Sustainability</em></li>
+  <li><em>Transportation Letters</em></li>
+</ul>
+</div>
+
+<style>
+.peer-review ul { margin: 0; padding-left: 1rem; }
+.peer-review ul { column-count: 3; column-gap: 1.5rem; }
+@media (max-width: 700px) {
+  .peer-review ul { column-count: 1; }
+}
+</style>
 
