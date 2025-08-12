@@ -46,4 +46,18 @@ Services
 
 
 
+<sub>
+<strong>Journals Peer Reviewer:</strong>  
+<i>Neurocomputing</i>,  
+<i>Knowledge-Based Systems</i>,  
+<i>Expert Systems with Applications</i>,  
+<i>Artificial Intelligence Review</i>,  
+<i>BMC Medical Informatics and Decision Making</i>,  
+<i>International Journal of Intelligent Systems</i>,  
+<i>Frontiers in Artificial Intelligence</i>,  
+<i>Informatics in Medicine Unlocked</i>,  
+<i>Discover Sustainability</i>,  
+<i>Transportation Letters</i>
+</sub>
+
 
