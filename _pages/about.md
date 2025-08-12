@@ -36,7 +36,7 @@ Services
 - *Knowledge-Based Systems*
 - *Expert Systems with Applications*
 - *Artificial Intelligence Review*
-- *BMC Medical Informatics and Decision Making
+- *BMC Medical Informatics and Decision Making*
 - *International Journal of Intelligent Systems*
 - *Frontiers in Artificial Intelligence*
 - *Informatics in Medicine Unlocked*
