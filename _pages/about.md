@@ -46,18 +46,18 @@ Services
 
 
 
-<div style="line-height: 1.3; margin-top: 0.25rem;">
-<ul>
-  <li><em>Neurocomputing</em></li>
-  <li><em>Knowledge-Based Systems</em></li>
-  <li><em>Expert Systems with Applications</em></li>
-  <li><em>Artificial Intelligence Review</em></li>
-  <li><em>BMC Medical Informatics and Decision Making</em></li>
-  <li><em>International Journal of Intelligent Systems</em></li>
-  <li><em>Frontiers in Artificial Intelligence</em></li>
-  <li><em>Informatics in Medicine Unlocked</em></li>
-  <li><em>Discover Sustainability</em></li>
-  <li><em>Transportation Letters</em></li>
-</ul>
+<div style="margin-top: 0.25rem;">
+  <ul style="list-style-position: inside;">
+    <li style="margin-bottom: 0.75rem;"><em>Neurocomputing</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>Knowledge-Based Systems</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>Expert Systems with Applications</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>Artificial Intelligence Review</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>BMC Medical Informatics and Decision Making</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>International Journal of Intelligent Systems</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>Frontiers in Artificial Intelligence</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>Informatics in Medicine Unlocked</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>Discover Sustainability</em></li>
+    <li style="margin-bottom: 0.75rem;"><em>Transportation Letters</em></li>
+  </ul>
 </div>
 
