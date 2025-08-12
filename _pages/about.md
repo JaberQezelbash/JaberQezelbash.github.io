@@ -44,27 +44,3 @@ Services
 - *Transportation letters*
 
 
-
-
-
-
-<div class="tight-list" markdown="1">
-
-- *Neurocomputing*
-- *Knowledge-Based Systems*
-- *Expert Systems with Applications*
-- *Artificial Intelligence Review*
-- *BMC Medical Informatics and Decision Making*
-- *International Journal of Intelligent Systems*
-- *Frontiers in Artificial Intelligence*
-- *Informatics in Medicine Unlocked*
-- *Discover Sustainability*
-- *Transportation Letters*
-
-</div>
-
-<style>
-/* Only affects the list inside .tight-list */
-.tight-list ul { margin-top: 0.25rem; margin-bottom: 0; padding-left: 1.1rem; }
-.tight-list li { margin: 0.15rem 0; line-height: 1.25; }
-</style>
