@@ -44,6 +44,19 @@ Services
 - *Transportation letters*
 
 
-
+<div style="line-height: 1.2; margin-top: 0.25rem;">
+  <ul>
+    <li><em>Neurocomputing</em></li>
+    <li><em>Knowledge-Based Systems</em></li>
+    <li><em>Expert Systems with Applications</em></li>
+    <li><em>Artificial Intelligence Review</em></li>
+    <li><em>BMC Medical Informatics and Decision Making</em></li>
+    <li><em>International Journal of Intelligent Systems</em></li>
+    <li><em>Frontiers in Artificial Intelligence</em></li>
+    <li><em>Informatics in Medicine Unlocked</em></li>
+    <li><em>Discover Sustainability</em></li>
+    <li><em>Transportation Letters</em></li>
+  </ul>
+</div>
 
 
