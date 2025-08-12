@@ -49,23 +49,22 @@
     display: none !important;
   }
 
-  /* Keep full width but make footer shorter */
+  /* Keep full width but make height exactly half of default */
   .page__footer {
-    padding: 0.1rem 0 !important;   /* reduce vertical padding */
-    line-height: 1em !important;  /* tighter line height */
+    padding-top: 0.5rem !important;  /* default is ~1rem top/bottom */
+    padding-bottom: 0.5rem !important;
   }
 
-  /* Tidy inner spacing */
+  /* Adjust inner container to match half-height look */
   .page__footer-inner,
   .footer-license {
-    padding: 0.1rem 0.2rem !important; /* small inner padding */
-    text-align: center;                /* center license line */
-    font-size: 0.8em;                   /* slightly smaller text */
+    padding-top: 0.25rem !important; /* default is ~0.5rem */
+    padding-bottom: 0.25rem !important;
+    text-align: center;
   }
 </style>
 
 <!-- end custom head snippets -->
-
 
 
 
