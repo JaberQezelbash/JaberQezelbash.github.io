@@ -33,19 +33,6 @@ Services
 ------
 1) Journals Peer Reviewer:
 
-<ul style="font-size: 0.85em; line-height: 1.2;">
-  <li><em>Neurocomputing</em></li>
-  <li><em>Knowledge-Based Systems</em></li>
-  <li><em>Expert Systems with Applications</em></li>
-  <li><em>Artificial Intelligence Review</em></li>
-  <li><em>BMC Medical Informatics and Decision Making</em></li>
-  <li><em>International Journal of Intelligent Systems</em></li>
-  <li><em>Frontiers in Artificial Intelligence</em></li>
-  <li><em>Informatics in Medicine Unlocked</em></li>
-  <li><em>Discover Sustainability</em></li>
-  <li><em>Transportation letters</em></li>
-</ul>
-
 <ul style="font-size: 0.85em; line-height: 1.2; list-style-type: square; padding-left: 1.2em;">
   <li style="margin-bottom: 0.3em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.3em;"><em>Knowledge-Based Systems</em></li>
