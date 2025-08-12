@@ -51,19 +51,19 @@ Services
 
 
 
-<div style="font-size:0.55em;">
-<ul>
-  <li style="margin:1px 0;"><em>Neurocomputing</em></li>
-  <li style="margin:1px 0;"><em>Knowledge-Based Systems</em></li>
-  <li style="margin:1px 0;"><em>Expert Systems with Applications</em></li>
-  <li style="margin:1px 0;"><em>Artificial Intelligence Review</em></li>
-  <li style="margin:1px 0;"><em>BMC Medical Informatics and Decision Making</em></li>
-  <li style="margin:1px 0;"><em>International Journal of Intelligent Systems</em></li>
-  <li style="margin:1px 0;"><em>Frontiers in Artificial Intelligence</em></li>
-  <li style="margin:1px 0;"><em>Informatics in Medicine Unlocked</em></li>
-  <li style="margin:1px 0;"><em>Discover Sustainability</em></li>
-  <li style="margin:1px 0;"><em>Transportation letters</em></li>
+1) Journals Peer Reviewer:
+
+<ul style="font-size: 0.85em; line-height: 1.2;">
+  <li><em>Neurocomputing</em></li>
+  <li><em>Knowledge-Based Systems</em></li>
+  <li><em>Expert Systems with Applications</em></li>
+  <li><em>Artificial Intelligence Review</em></li>
+  <li><em>BMC Medical Informatics and Decision Making</em></li>
+  <li><em>International Journal of Intelligent Systems</em></li>
+  <li><em>Frontiers in Artificial Intelligence</em></li>
+  <li><em>Informatics in Medicine Unlocked</em></li>
+  <li><em>Discover Sustainability</em></li>
+  <li><em>Transportation letters</em></li>
 </ul>
-</div>
 
 
