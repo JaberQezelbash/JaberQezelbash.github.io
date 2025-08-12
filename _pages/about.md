@@ -46,10 +46,9 @@ Services
 
 
 
-<sub>
-<strong>Journals Peer Reviewer:</strong>  
-<i>Neurocomputing</i>,  
-<i>Knowledge-Based Systems</i>,  
+<sub> 
+- <i>Neurocomputing</i>,  
+- <i>Knowledge-Based Systems</i>,  
 <i>Expert Systems with Applications</i>,  
 <i>Artificial Intelligence Review</i>,  
 <i>BMC Medical Informatics and Decision Making</i>,  
