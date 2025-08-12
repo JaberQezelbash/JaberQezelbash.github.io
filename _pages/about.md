@@ -44,8 +44,8 @@ Services
 - *Transportation letters*
 
 
-<div style="line-height: 1.2; margin-top: 0.25rem;">
-  <ul>
+<div style="margin-top: 0.25rem;">
+  <ul style="display: flex; flex-direction: column; gap: 0.5rem; margin: 0; padding-left: 1.25rem;">
     <li><em>Neurocomputing</em></li>
     <li><em>Knowledge-Based Systems</em></li>
     <li><em>Expert Systems with Applications</em></li>
