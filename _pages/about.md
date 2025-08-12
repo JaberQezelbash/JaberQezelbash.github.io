@@ -50,3 +50,19 @@ Services
 <sub><em>Neurocomputing, Knowledge-Based Systems, Expert Systems with Applications, Artificial Intelligence Review, BMC Medical Informatics and Decision Making, International Journal of Intelligent Systems, Frontiers in Artificial Intelligence, Informatics in Medicine Unlocked, Discover Sustainability, Transportation Letters</em></sub>
 
 
+
+<ul style="font-size: 0.85em; line-height: 1.2;">
+  <li><em>Neurocomputing</em></li>
+  <li><em>Knowledge-Based Systems</em></li>
+  <li><em>Expert Systems with Applications</em></li>
+  <li><em>Artificial Intelligence Review</em></li>
+  <li><em>BMC Medical Informatics and Decision Making</em></li>
+  <li><em>International Journal of Intelligent Systems</em></li>
+  <li><em>Frontiers in Artificial Intelligence</em></li>
+  <li><em>Informatics in Medicine Unlocked</em></li>
+  <li><em>Discover Sustainability</em></li>
+  <li><em>Transportation letters</em></li>
+</ul>
+
+
+
