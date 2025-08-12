@@ -46,18 +46,14 @@
 
 <footer class="page__footer" role="contentinfo">
   <div class="wrapper">
-    {%- comment -%}
-      No sitemap / follow / feed blocks here on purpose.
-      Only copyright (and optional license text from _config.yml).
-    {%- endcomment -%}
     <div class="page__footer-copyright">
       &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
-      {%- if site.license_html -%}
-        {{ site.license_html | markdownify }}
-      {%- endif -%}
+      Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+      <a href="https://github.com/academicpages/academicpages.github.io" rel="nofollow">AcademicPages</a>.
     </div>
   </div>
 </footer>
+
 
 
  
