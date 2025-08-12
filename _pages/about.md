@@ -48,16 +48,16 @@ Services
 
 <div style="margin-top: 0.25rem;">
   <ul style="list-style-position: inside;">
-    <li style="margin-bottom: 0.75rem;"><em>Neurocomputing</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>Knowledge-Based Systems</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>Expert Systems with Applications</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>Artificial Intelligence Review</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>BMC Medical Informatics and Decision Making</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>International Journal of Intelligent Systems</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>Frontiers in Artificial Intelligence</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>Informatics in Medicine Unlocked</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>Discover Sustainability</em></li>
-    <li style="margin-bottom: 0.75rem;"><em>Transportation Letters</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Neurocomputing</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Knowledge-Based Systems</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Expert Systems with Applications</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Artificial Intelligence Review</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>BMC Medical Informatics and Decision Making</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>International Journal of Intelligent Systems</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Frontiers in Artificial Intelligence</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Informatics in Medicine Unlocked</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Discover Sustainability</em></li>
+    <li style="margin-bottom: 0.5rem;"><em>Transportation Letters</em></li>
   </ul>
 </div>
 
