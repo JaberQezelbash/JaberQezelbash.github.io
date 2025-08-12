@@ -28,18 +28,8 @@
 
 
 
-<!-- {% include base_path %}
+<!-- <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.</div>
  -->
-<!-- <div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-  </ul>
-</div> -->
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.</div>
-
 
 
 
@@ -52,6 +42,22 @@
 </footer>
  -->
 
+
+
+<footer class="page__footer" role="contentinfo">
+  <div class="wrapper">
+    {%- comment -%}
+      No sitemap / follow / feed blocks here on purpose.
+      Only copyright (and optional license text from _config.yml).
+    {%- endcomment -%}
+    <div class="page__footer-copyright">
+      &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+      {%- if site.license_html -%}
+        {{ site.license_html | markdownify }}
+      {%- endif -%}
+    </div>
+  </div>
+</footer>
 
 
  
