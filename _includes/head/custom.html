@@ -34,51 +34,55 @@
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML" async></script>
 
-<!-- Footer CSS: force a specific (short) gray-bar height -->
+<!-- Footer CSS: fixed short height and no top border -->
 <style>
-  /* Change this ONE value to fine-tune the exact gray bar height */
-  :root { --footer-height: 28px; }  /* try 26–32px if you need tiny tweaks */
+  :root {
+    --footer-height: 28px; /* adjust until it matches your annotation exactly */
+  }
 
-  /* Make the footer exactly --footer-height tall and centered */
   footer.page__footer {
     background-color: #f2f2f2 !important;
-    border-top: none !important;      /* kill the faint line */
-    box-shadow: none !important;
-    outline: none !important;
-
     height: var(--footer-height) !important;
     min-height: var(--footer-height) !important;
     padding: 0 !important;
     margin: 0 !important;
-    overflow: hidden !important;      /* prevent extra lines from increasing height */
+    overflow: hidden !important;
+    border-top: none !important;   /* remove faint line */
+    box-shadow: none !important;
+    outline: none !important;
   }
 
   footer.page__footer .wrapper {
     height: 100% !important;
     display: flex !important;
-    align-items: center !important;   /* vertical centering */
-    justify-content: center !important; /* horizontal centering */
+    align-items: center !important;
+    justify-content: center !important;
     padding: 0 !important;
     margin: 0 !important;
   }
 
-  /* Keep everything inside from adding stray height */
   footer.page__footer * {
     margin: 0 !important;
     padding: 0 !important;
   }
 
-  /* Small, single-line copyright text */
   footer.page__footer .page__footer-copyright {
-    font-size: 0.7rem !important;     /* keep it small */
+    font-size: 0.75rem !important; /* same small size as before */
     line-height: 1 !important;
-    white-space: nowrap !important;   /* force one line so height stays exact */
+    white-space: nowrap !important; /* single line to keep height exact */
   }
 
-  /* On very narrow screens, allow wrap and auto height to avoid clipping */
+  /* On small screens, allow wrapping so text isn’t clipped */
   @media (max-width: 520px) {
-    footer.page__footer { height: auto !important; min-height: 0 !important; padding: 0.4rem 0 !important; }
-    footer.page__footer .page__footer-copyright { white-space: normal !important; text-align: center; }
+    footer.page__footer {
+      height: auto !important;
+      min-height: 0 !important;
+      padding: 0.4rem 0 !important;
+    }
+    footer.page__footer .page__footer-copyright {
+      white-space: normal !important;
+      text-align: center;
+    }
   }
 </style>
 
