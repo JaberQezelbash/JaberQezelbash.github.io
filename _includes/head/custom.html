@@ -1,4 +1,4 @@
-{% include base_path %}
+<!-- {% include base_path %}
 
 <!-- start custom head snippets -->
 
@@ -80,6 +80,92 @@
   /* 6) Mobile: a touch more padding so it doesn't feel cramped */
   @media (max-width: 480px) {
     footer.page__footer { padding-top: 1rem !important; padding-bottom: 1rem !important; }
+  }
+</style>
+
+<!-- end custom head snippets -->
+ -->
+
+
+
+
+
+{% include base_path %}
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ base_path }}/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ base_path }}/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ base_path }}/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ base_path }}/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ base_path }}/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="{{ base_path }}/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="{{ base_path }}/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], processEscapes: true }
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML" async></script>
+
+<!-- Footer CSS overrides -->
+<style>
+  /* half-height footer (shrink vertical padding) */
+  footer.page__footer {
+    background-color: #f2f2f2 !important;
+    padding-top: 0.6rem !important;
+    padding-bottom: 0.6rem !important;
+    margin-top: 0 !important;
+    min-height: 0 !important;
+
+    /* REMOVE the faint line */
+    border-top: none !important;
+    box-shadow: none !important;      /* just in case the theme used shadows */
+    outline: none !important;
+  }
+
+  /* remove any extra interior spacing */
+  footer.page__footer .wrapper {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    min-height: 0 !important;
+  }
+
+  /* collapse margins on all children so nothing adds height/lines */
+  footer.page__footer * {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  /* small copyright text (match your previous size) */
+  footer.page__footer .page__footer-copyright {
+    line-height: 0.6 !important;
+    font-size: 0.7rem !important;
+  }
+
+  /* mobile: tiny bit more breathing room */
+  @media (max-width: 480px) {
+    footer.page__footer { padding-top: 0.8rem !important; padding-bottom: 0.8rem !important; }
   }
 </style>
 
