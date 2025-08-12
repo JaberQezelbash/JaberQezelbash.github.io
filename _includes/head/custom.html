@@ -35,28 +35,28 @@
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML" async></script>
 
-<!-- Footer CSS: make the grey footer bar half as tall -->
+<!-- Footer CSS: make the gray footer bar half as tall -->
 <style>
-  /* The theme creates footer height with vertical padding.
-     Halve it to make the grey bar ~half the previous height. */
+  /* Theme footer height comes from vertical padding.
+     Set the default once, then halve it with calc(). */
+  :root {
+    /* Minimal Mistakes typically uses ~1.5rem vertical padding.
+       Change this value if you need to fine‑tune the exact height. */
+    --footer-vpad-default: 1.5rem;
+  }
+
   .page__footer {
-    padding-top: 0.5rem !important;
-    padding-bottom: 0.5rem !important;
+    padding-top: calc(var(--footer-vpad-default) / 2) !important;
+    padding-bottom: calc(var(--footer-vpad-default) / 2) !important;
   }
 
-  /* If you are using a custom inner box (e.g., .license-box), halve it too.
-     Safe to leave even if you don't use .license-box. */
-  .license-box {
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-  }
-
-  /* Prevent child margins from adding extra height */
+  /* Remove extra vertical space created by margins inside the footer */
   .page__footer p,
   .page__footer div,
-  .page__footer ul {
-    margin-top: 0;
-    margin-bottom: 0;
+  .page__footer ul,
+  .page__footer small {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 </style>
 
