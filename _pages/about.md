@@ -32,7 +32,7 @@ Latest
 Services
 ------
 - Journals Peer Reviewer:
-<ul style="font-size: 0.85em; line-height: 1.1; list-style-type: square; padding-left: 2.9em;">
+<ul style="font-size: 0.85em; line-height: 1.1; list-style-type: square; padding-left: 3.5em;">
   <li style="margin-bottom: 0.3em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.3em;"><em>Knowledge-Based Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Expert Systems with Applications</em></li>
