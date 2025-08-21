@@ -15,6 +15,8 @@ Jàber is a Ph.D. candidate in the Department of Industrial & Systems Engineerin
 Latest
 ------
 
+- August 2025: Accepted publication: "KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance."
+
 - May 2025: Accepted publication: "[DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification](https://www.sciencedirect.com/science/article/abs/pii/S1746809425005981)."
 
 - May 2025: Accepted publication: "A Hybrid Learnable Fusion of ConvNeXt and Swin Transformer for Optimized Image Classification."
