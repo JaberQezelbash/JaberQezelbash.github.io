@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-**Qezelbash-Chamak, J.**, Hicklin, K., & Kim, M. (2025). KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance, *Pattern Recognition*, -.
+**Qezelbash-Chamak, J.**, Hicklin, K., & Kim, M. (2025). KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance, *Pattern Recognition*,—.
 
 **Qezelbash-Chamak, J.** (2025). DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification, *Biomedical Signal Processing and Control*, 110, 108087. [[View](https://doi.org/10.1016/j.bspc.2025.108087)]
 
