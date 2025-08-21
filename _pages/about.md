@@ -17,7 +17,7 @@ Latest
 
 - August 2025: Accepted publication: "KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance."
 
-- May 2025: Accepted publication: "[DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification](https://www.sciencedirect.com/science/article/abs/pii/S1746809425005981)."
+- May 2025: Accepted publication: "[DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification](https://www.sciencedirect.com/science/article/pii/S1746809425005981?casa_token=UXkOClLtgc0AAAAA:XnVQ8UXaV4dFluUJW8VZGEjcpl0uw-UReWhIRCSMFTweapIDFKfDayZUvjxj9oUWBlbJoAF2UA4)."
 
 - May 2025: Accepted publication: "A Hybrid Learnable Fusion of ConvNeXt and Swin Transformer for Optimized Image Classification."
 
