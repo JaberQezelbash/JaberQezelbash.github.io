@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Jàber is a Ph.D. candidate in the Department of Industrial & Systems Engineering at the University of Florida, pursuing his current studies under the supervision of Dr. *K. Hicklin*. His research primarily centers on Machine Learning and Deep Learning. Currently, he focuses on developing Deep Learning-based Medical Imaging models for Biomedical Informatics.
+Jàber is a Ph.D. candidate in the Department of Industrial & Systems Engineering at the University of Florida, pursuing his current studies under the supervision of Dr. *K. Hicklin*. His research primarily centers on Machine Learning and Deep Learning, with a current focus on developing advanced deep learning models for applications in Health Informatics. 
 
 
 Latest
