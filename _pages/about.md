@@ -39,6 +39,7 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Knowledge-Based Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Expert Systems with Applications</em></li>
   <li style="margin-bottom: 0.3em;"><em>Artificial Intelligence Review</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Scientific Reports</em></li>
   <li style="margin-bottom: 0.3em;"><em>BMC Medical Informatics and Decision Making</em></li>
   <li style="margin-bottom: 0.3em;"><em>International Journal of Intelligent Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Frontiers in Artificial Intelligence</em></li>
