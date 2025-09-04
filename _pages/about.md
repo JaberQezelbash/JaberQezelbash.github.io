@@ -45,6 +45,7 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Frontiers in Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.3em;"><em>Informatics in Medicine Unlocked</em></li>
   <li style="margin-bottom: 0.3em;"><em>Discover Sustainability</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Healthcare Analytics</em></li>
   <li style="margin-bottom: 0.3em;"><em>Transportation letters</em></li>
 </ul>
 
