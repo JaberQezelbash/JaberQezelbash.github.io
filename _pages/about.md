@@ -36,6 +36,7 @@ Services
 - Journals Peer Reviewer:
 <ul style="font-size: 0.85em; line-height: 1.1; list-style-type: square; padding-left: 4.2em;">
   <li style="margin-bottom: 0.3em;"><em>Neurocomputing</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Information Fusion</em></li>
   <li style="margin-bottom: 0.3em;"><em>Knowledge-Based Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Expert Systems with Applications</em></li>
   <li style="margin-bottom: 0.3em;"><em>Artificial Intelligence Review</em></li>
@@ -45,6 +46,7 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Frontiers in Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.3em;"><em>Informatics in Medicine Unlocked</em></li>
   <li style="margin-bottom: 0.3em;"><em>Discover Sustainability</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Discover Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.3em;"><em>Healthcare Analytics</em></li>
   <li style="margin-bottom: 0.3em;"><em>Transportation letters</em></li>
 </ul>
