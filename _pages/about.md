@@ -15,7 +15,7 @@ Jàber is a Ph.D. candidate in the Department of Industrial & Systems Engineerin
 Latest
 ------
 
-- September 2025: Accepted publication: "[Longitudinal Fetal Heart Rate Analysis Identifies Neonates with Metabolic Acidemia Requiring Therapeutic Hypothermia](https://doi.org/10.1016/j.ajog.2025.09.019)."
+- September 2025: Accepted publication: "[Longitudinal Fetal Heart Rate Analysis Identifies Neonates with Metabolic Acidemia Requiring Therapeutic Hypothermia](https://www.sciencedirect.com/science/article/abs/pii/S0002937825006738)."
 
 - August 2025: Accepted publication: "[KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance](https://authors.elsevier.com/a/1lg%7EZ77nKsB74)."
 
