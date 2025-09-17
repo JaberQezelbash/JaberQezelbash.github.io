@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
+Silva, L., Joiner, D., **Qezelbash-Chamak, J.**, Kim, M., Garvan, C., Berg, M., Weiss, M., Hicklin, K., & Smulian, J. (2025). Longitudinal Fetal Heart Rate Analysis Identifies Neonates with Metabolic Acidemia Requiring Therapeutic Hypothermia. *American Journal of Obstetrics and Gynecology*, [—]
+
 **Qezelbash-Chamak, J.**, Hicklin, K., & Kim, M. (2026). KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance, *Pattern Recognition*, 171, 112325. [[View](https://doi.org/10.1016/j.patcog.2025.112325)]
 
 **Qezelbash-Chamak, J.** (2025). DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification, *Biomedical Signal Processing and Control*, 110, 108087. [[View](https://doi.org/10.1016/j.bspc.2025.108087)]
