@@ -41,14 +41,17 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Information Fusion</em></li>
   <li style="margin-bottom: 0.3em;"><em>Knowledge-Based Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Expert Systems with Applications</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Biomedical Signal Processing and Control</em></li>
   <li style="margin-bottom: 0.3em;"><em>Artificial Intelligence Review</em></li>
   <li style="margin-bottom: 0.3em;"><em>Scientific Reports</em></li>
   <li style="margin-bottom: 0.3em;"><em>BMC Medical Informatics and Decision Making</em></li>
   <li style="margin-bottom: 0.3em;"><em>International Journal of Intelligent Systems</em></li>
+  <li style="margin-bottom: 0.3em;"><em>journal of intelligent & fuzzy systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Frontiers in Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.3em;"><em>Informatics in Medicine Unlocked</em></li>
   <li style="margin-bottom: 0.3em;"><em>Discover Artificial Intelligence</em></li>
-    <li style="margin-bottom: 0.3em;"><em>Discover Sustainability</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Discover Applied Sciences</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Discover Sustainability</em></li>
   <li style="margin-bottom: 0.3em;"><em>Healthcare Analytics</em></li>
   <li style="margin-bottom: 0.3em;"><em>Transportation letters</em></li>
 </ul>
