@@ -15,6 +15,8 @@ Jàber is a Ph.D. candidate in the Department of Industrial & Systems Engineerin
 Latest
 ------
 
+- October 2025: INFORMS annual meeting and conference, Atlanta, GA. Title: "Finding Minimal Monitoring Windows for Fetal Risk Prediction: A Two-Stage Machine Learning Framework." 
+
 - September 2025: Accepted publication: "[Longitudinal Fetal Heart Rate Analysis Identifies Neonates with Metabolic Acidemia Requiring Therapeutic Hypothermia](https://www.sciencedirect.com/science/article/abs/pii/S0002937825006738)."
 
 - August 2025: Accepted publication: "[KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance](https://authors.elsevier.com/a/1lg%7EZ77nKsB74)."
