@@ -19,7 +19,7 @@ Latest
 
 - September 2025: Accepted publication: "[Longitudinal Fetal Heart Rate Analysis Identifies Neonates with Metabolic Acidemia Requiring Therapeutic Hypothermia](https://www.sciencedirect.com/science/article/abs/pii/S0002937825006738)."
 
-- August 2025: Accepted publication: "[KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance](https://authors.elsevier.com/a/1lg%7EZ77nKsB74)."
+- August 2025: Accepted publication: "[KANBalance: Kolmogorov-Arnold Network Mitigates Class Imbalance](https://doi.org/10.1016/j.patcog.2025.112325)."
 
 - May 2025: Accepted publication: "[DEQ-KAN: Deep Equilibrium Kolmogorov–Arnold Networks for Robust Classification](https://doi.org/10.1016/j.bspc.2025.108087)."
 
