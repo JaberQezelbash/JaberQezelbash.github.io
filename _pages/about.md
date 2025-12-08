@@ -47,7 +47,6 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Biomedical Signal Processing and Control</em></li>
   <li style="margin-bottom: 0.3em;"><em>Machine Learning with Applications</em></li>
   <li style="margin-bottom: 0.3em;"><em>Artificial Intelligence Review</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Multimedia Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Scientific Reports</em></li>
   <li style="margin-bottom: 0.3em;"><em>BMC Medical Informatics and Decision Making</em></li>
   <li style="margin-bottom: 0.3em;"><em>International Journal of Intelligent Systems</em></li>
@@ -58,6 +57,7 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Discover Applied Sciences</em></li>
   <li style="margin-bottom: 0.3em;"><em>Discover Sustainability</em></li>
   <li style="margin-bottom: 0.3em;"><em>Healthcare Analytics</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Multimedia Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Transportation letters</em></li>
 </ul>
 
