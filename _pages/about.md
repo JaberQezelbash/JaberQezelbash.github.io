@@ -60,6 +60,5 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Multimedia Systems</em></li>
   <li style="margin-bottom: 0.3em;"><em>Pediatric Radiology</em></li>
   <li style="margin-bottom: 0.3em;"><em>Scientific Reports</em></li>
-
 </ul>
 
