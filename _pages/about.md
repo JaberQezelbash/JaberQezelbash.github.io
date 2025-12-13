@@ -42,8 +42,8 @@ Services
   <li style="margin-bottom: 0.3em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.3em;"><em>Information Fusion</em></li>
   <li style="margin-bottom: 0.3em;"><em>Applied Soft Computing</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Artificial Intelligence Review</em></li>
   <li style="margin-bottom: 0.3em;"><em>Knowledge-Based Systems</em></li>
+  <li style="margin-bottom: 0.3em;"><em>Artificial Intelligence Review</em></li>
   <li style="margin-bottom: 0.3em;"><em>Expert Systems with Applications</em></li>
   <li style="margin-bottom: 0.3em;"><em>Machine Learning with Applications</em></li>
   <li style="margin-bottom: 0.3em;"><em>Biomedical Signal Processing and Control</em></li>
