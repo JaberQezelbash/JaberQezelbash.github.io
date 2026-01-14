@@ -38,28 +38,29 @@ Latest
 Services
 ------
 - Journals Peer Reviewer:
-<ul style="font-size: 0.85em; line-height: 1.1; list-style-type: square; padding-left: 4.2em;">
-  <li style="margin-bottom: 0.3em;"><em>Neurocomputing</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Information Fusion</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Applied Soft Computing</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Knowledge-Based Systems</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Artificial Intelligence Review</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Expert Systems with Applications</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Machine Learning with Applications</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Biomedical Signal Processing and Control</em></li>
-  <li style="margin-bottom: 0.3em;"><em>BMC Medical Informatics and Decision Making</em></li>
-  <li style="margin-bottom: 0.3em;"><em>International Journal of Intelligent Systems</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Informatics in Medicine Unlocked</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Frontiers in Artificial Intelligence</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Forensic Science International</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Discover Artificial Intelligence</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Discover Applied Sciences</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Discover Sustainability</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Transportation letters</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Healthcare Analytics</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Multimedia Systems</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Pediatric Radiology</em></li>
-  <li style="margin-bottom: 0.3em;"><em>Scientific Reports</em></li>
+<ul style="font-size: 0.75em; line-height: 1.1; list-style-type: square; padding-left: 4.4em;">
+  <li style="margin-bottom: 0.2em;"><em>Neurocomputing</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Information Fusion</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Applied Soft Computing</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Knowledge-Based Systems</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Artificial Intelligence Review</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Expert Systems with Applications</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Machine Learning with Applications</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Biomedical Signal Processing and Control</em></li>
+  <li style="margin-bottom: 0.2em;"><em>BMC Medical Informatics and Decision Making</em></li>
+  <li style="margin-bottom: 0.2em;"><em>International Journal of Intelligent Systems</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Informatics in Medicine Unlocked</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Frontiers in Artificial Intelligence</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Forensic Science International</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Discover Artificial Intelligence</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Discover Applied Sciences</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Discover Sustainability</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Transportation letters</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Healthcare Analytics</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Multimedia Systems</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Pediatric Radiology</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Discover Computing </em></li>
+  <li style="margin-bottom: 0.2em;"><em>Scientific Reports</em></li>
 </ul>
 
