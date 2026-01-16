@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaber"
+  name             : 
   avatar           : "profile.jpg"
-  bio              : "Ph.D., University of Florida" 
+  bio              : "Ph.D. | University of Florida" 
   location         : "Tampa, FL"
   employer         :
   pubmed           : 
