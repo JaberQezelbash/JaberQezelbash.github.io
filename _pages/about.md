@@ -48,6 +48,7 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Machine Learning with Applications</em></li>
   <li style="margin-bottom: 0.2em;"><em>Biomedical Signal Processing and Control</em></li>
   <li style="margin-bottom: 0.2em;"><em>BMC Medical Informatics and Decision Making</em></li>
+  <li style="margin-bottom: 0.2em;"><em> Engineering applications of artificial intelligence</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Intelligent Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Informatics in Medicine Unlocked</em></li>
@@ -58,6 +59,7 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Discover Sustainability</em></li>
   <li style="margin-bottom: 0.2em;"><em>Transportation letters</em></li>
   <li style="margin-bottom: 0.2em;"><em>Healthcare Analytics</em></li>
+  <li style="margin-bottom: 0.2em;"><em>npj Digital Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Computing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Multimedia Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Pediatric Radiology</em></li>
