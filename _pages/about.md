@@ -59,8 +59,8 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Discover Sustainability</em></li>
   <li style="margin-bottom: 0.2em;"><em>Transportation letters</em></li>
   <li style="margin-bottom: 0.2em;"><em>Healthcare Analytics</em></li>
-  <li style="margin-bottom: 0.2em;"><em>npj Digital Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Computing</em></li>
+  <li style="margin-bottom: 0.2em;"><em>npj Digital Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>Multimedia Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Pediatric Radiology</em></li>
   <li style="margin-bottom: 0.2em;"><em>Scientific Reports</em></li>
