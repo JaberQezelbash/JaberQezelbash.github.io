@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 
-Jaber is a Ph.D. candidate in the Department of Industrial & Systems Engineering at the University of Florida, pursuing his current studies under the supervision of Dr. *K. Hicklin*. His research primarily centers on Machine Learning and Deep Learning, with a current focus on developing advanced deep learning models for applications in Health Informatics. 
+Jaber Qezelbash-Chamak, PhD, is a Machine Learning Engineer/Scientist and a recent graduate of the Department of Industrial & Systems Engineering at the University of Florida. His expertise lies in machine learning, deep learning, and artificial intelligence, with a current research focus on large language models and their applications in health informatics. During his PhD journey, he published several cutting-edge, novel deep learning–based methodologies applied to health informatics in high-ranked journals.
 
 
 Latest
 ------
+- December 2025: PhDone!
 
 - October 2025: INFORMS annual meeting and conference, Atlanta, GA. Title: "Finding Minimal Monitoring Windows for Fetal Risk Prediction: A Two-Stage Machine Learning Framework." 
 
