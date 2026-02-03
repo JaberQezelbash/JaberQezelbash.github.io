@@ -58,6 +58,7 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Discover Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Applied Sciences</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Sustainability</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Discover Neuroscience </em></li>
   <li style="margin-bottom: 0.2em;"><em>Transportation letters</em></li>
   <li style="margin-bottom: 0.2em;"><em>Healthcare Analytics</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Computing</em></li>
