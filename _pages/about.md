@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Jaber Qezelbash-Chamak, PhD, is a Machine Learning Engineer who recently earned his doctorate from the Department of Industrial & Systems Engineering at the University of Florida. His expertise spans machine learning, deep learning, and artificial intelligence, with a current research focus on large language models and their applications in health informatics. Throughout his PhD journey, he developed and published several cutting-edge, novel deep learning–based methodologies for health informatics in high-impact, top-tier journals.
+Jaber is a Machine Learning Engineer who recently earned his doctorate from the Department of Industrial & Systems Engineering at the University of Florida. His expertise spans machine learning, deep learning, and artificial intelligence, with a current research focus on large language models and their applications in health informatics. Throughout his PhD journey, he developed and published several cutting-edge, novel deep learning–based methodologies for health informatics in high-impact, top-tier journals.
 
 
 Latest
