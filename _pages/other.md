@@ -25,7 +25,8 @@ I’m an avid reader with interests spanning machine learning, entrepreneurship,
     Don't miss this (little) book by Dr. Pritchett.
   </li>
 
-    <li style="margin-bottom: 0.9em;">
+  <li style="margin-bottom: 0.9em;">
     <em>to be added...</em><br>
   </li>
+  
 </ul>
