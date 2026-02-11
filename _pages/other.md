@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I’m an avid reader with interests spanning machine learning, entrepreneurship, psychology, and beyond. Here are a few of my recommemded books:
+I’m an avid reader with interests spanning machine learning, entrepreneurship, psychology, and more. Here are a few books I recommend:
 
 <ul style="font-size: 0.75em; line-height: 1.1; list-style-type: square; padding-left: 4.4em;">
   <li style="margin-bottom: 0.9em;">
