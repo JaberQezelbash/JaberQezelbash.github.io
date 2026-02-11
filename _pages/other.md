@@ -19,4 +19,10 @@ I’m an avid reader with interests spanning machine learning, entrepreneurship,
     <em>Think and Grow Rich (Napoleon Hill, 1937)</em><br>
     No introduction needed for this state-of-the-art! It’s Napoleon’s study of highly successful figures such as Andrew Carnegie, Henry Ford, and Thomas Edison, outlining a “Philosophy of Achievement” built around 13 core principles.
   </li>
+
+  <li style="margin-bottom: 0.9em;">
+    <em>You Squared (Price Pritchett, 1994)</em><br>
+    Don't miss this (little) book by Dr. Pritchett.
+  </li>
+  
 </ul>
