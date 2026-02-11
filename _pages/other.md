@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-# -----
+%-----
 I’m an avid reader who enjoys exploring a wide range of topics, from machine learning and entrepreneurship to psychology and beyond. Here are a few of them:
 
 <ul style="font-size: 0.75em; line-height: 1.1; list-style-type: square; padding-left: 4.4em;">
