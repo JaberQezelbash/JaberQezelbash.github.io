@@ -13,7 +13,7 @@ I’m an avid reader with interests spanning machine learning, entrepreneurship,
 
   <li style="margin-bottom: 0.9em;">
     <em>As a Man Thinketh (James Allen, 1902)</em><br>
-    I believe each person may interpret this conceptual artwork at a different level of understanding. So I encourage you to read it carefully, perhaps more than once, to fully grasp it!
+    I believe each person may interpret this intellectually rich work at a different level of understanding. So I encourage you to read it carefully, perhaps more than once, to fully grasp it!
   </li>
 
   <li style="margin-bottom: 0.9em;">
