@@ -28,8 +28,14 @@ Outside of machine learning, I’m an avid reader who enjoys books on entreprene
 
   <li style="margin-bottom: 0.9em;">
     <em>You Squared (Price Pritchett, 1994)</em><br>
-    Don't miss this (little) book by Dr. Pritchett.
+    Don't miss this (little) book by Dr. Pritchett. It offers a powerful guide to rapid growth in both your personal and professional life.
   </li>
+
+  <li style="margin-bottom: 0.9em;">
+    <em>The 5AM Club (Robin Sharma, 2018)</em><br>
+    This book aims to help readers overcome mediocrity, build self-discipline, and utilize the quiet, early (magical!) hours for deep work and self-improvement.
+  </li>
+  
 
   <li style="margin-bottom: 0.9em;">
     <em>to be added...</em><br>
