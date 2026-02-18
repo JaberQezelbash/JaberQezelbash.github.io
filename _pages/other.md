@@ -23,7 +23,7 @@ Outside of machine learning, I’m an avid reader who enjoys books on entreprene
 
   <li style="margin-bottom: 0.9em;">
     <em>Attention Is All You Need (Ashish Vaswani, 2017)</em><br>
-    This is a machine learning paper, not a book. I chose it because I deeply admire it; not only for introducing Transformers and explaining how the Attention Mechanism works, but also for a broader concept, which resonates far beyond the technical domain. Read (only) the title again, and stay open to the deeper (almost universal) concept it conveys.
+    This is a machine learning paper, not a book. I chose it because I deeply admire it; not only for introducing Transformers and explaining how the Attention Mechanism works, but also for a broader concept, which resonates far beyond the technical domain.
   </li>
 
   <li style="margin-bottom: 0.9em;">
