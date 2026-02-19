@@ -16,6 +16,9 @@ Jaber is a Machine Learning Engineer with expertise in machine learning, deep le
 
 Latest
 ------
+
+- February 2026: Fine-tuned the Qwen2.5-1.5B-Instruct language model to improve its performance on medical question-answering tasks by training it on a publicly available dataset ([GitHub Repo]{(https://github.com/JaberQezelbash/finetune-Qwen2.5-1.5B-Instruct)).
+
 - December 2025: PhDone!
 
 - October 2025: INFORMS annual meeting and conference, Atlanta, GA. Title: "Finding Minimal Monitoring Windows for Fetal Risk Prediction: A Two-Stage Machine Learning Framework." 
