@@ -49,6 +49,7 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Information Fusion</em></li>
   <li style="margin-bottom: 0.2em;"><em>Applied Soft Computing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Knowledge-Based Systems</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Journal of Systems Architecture</em></li>
   <li style="margin-bottom: 0.2em;"><em>Artificial Intelligence Review</em></li>
   <li style="margin-bottom: 0.2em;"><em>Expert Systems with Applications</em></li>
   <li style="margin-bottom: 0.2em;"><em>Machine Learning with Applications</em></li>
@@ -75,5 +76,7 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Discover Analytics</em></li>
   <li style="margin-bottom: 0.2em;"><em>Scientific Reports</em></li>
 </ul>
+
+  
 
 
