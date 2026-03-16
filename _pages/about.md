@@ -59,8 +59,8 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Engineering applications of artificial intelligence</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Computational Intelligence Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Intelligent Systems</em></li>
-  <li style="margin-bottom: 0.2em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Computational Biology and Chemistry</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Informatics in Medicine Unlocked</em></li>
   <li style="margin-bottom: 0.2em;"><em>Frontiers in Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.2em;"><em>Forensic Science International</em></li>
