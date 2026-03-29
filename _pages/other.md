@@ -35,10 +35,18 @@ Outside of machine learning, I’m an avid reader who enjoys books on entreprene
     <em>The 5AM Club (Robin Sharma, 2018)</em><br>
     This book aims to help readers overcome mediocrity, build self-discipline, and utilize the quiet, early (magical!) hours for deep work and self-improvement.
   </li>
-  
+
+  <li style="margin-bottom: 0.9em;">
+    <em>The 5AM Club (Robin Sharma, 2018)</em><br>
+    It is a memoir by Jane Marie Chen, the co-founder of a famous company, detailing her journey from burnout and a loss of identity after her company's failure to a global quest for healing, confronting childhood trauma, and finding self-worth. _Like a Wave We Break_ is well written; its narrative feels deeply intimate and honest, drawing you in with raw emotion while offering a powerful sense of hope and resilience.
+  </li>
 
   <li style="margin-bottom: 0.9em;">
     <em>to be added...</em><br>
   </li>
   
 </ul>
+
+
+
+
