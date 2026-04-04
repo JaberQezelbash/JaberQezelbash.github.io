@@ -79,6 +79,8 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Discover Analytics</em></li>
   <li style="margin-bottom: 0.2em;"><em>BMC Oral Health</em></li>
   <li style="margin-bottom: 0.2em;"><em>Scientific Reports</em></li>
+  <li style="margin-bottom: 0.2em;"><em>BioData Mining</em></li>
+
 
 
   
