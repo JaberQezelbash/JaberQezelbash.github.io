@@ -45,6 +45,7 @@ Services
 ------
 - Journals Peer Reviewer:
 <ul style="font-size: 0.75em; line-height: 1.1; list-style-type: square; padding-left: 4.4em;">
+  <li style="margin-bottom: 0.2em;"><em>Neural Networks</em></li>
   <li style="margin-bottom: 0.2em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Information Fusion</em></li>
   <li style="margin-bottom: 0.2em;"><em>Applied Soft Computing</em></li>
@@ -84,7 +85,7 @@ Services
   
 
 
-
+  
   
 
 
