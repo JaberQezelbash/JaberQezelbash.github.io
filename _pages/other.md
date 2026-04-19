@@ -42,11 +42,20 @@ Outside of machine learning, I’m an avid reader who enjoys books on entreprene
   </li>
 
   <li style="margin-bottom: 0.9em;">
+    <em>Secrets of The Millionaire Mind (T. Harv Eker, 2005)</em><br>
+    It’s difficult to rank your favorite books, but this one is definitely among my top ten. A psychology-based enterproneorship book that explains how your subconscious (mainly formed in childhood) dictates your success, and teaches you to reprogram it. No more introduction! :)
+  </li>
+  
+  <li style="margin-bottom: 0.9em;">
     <em>to be added...</em><br>
   </li>
   
 </ul>
 
+
+
+
+  
 
 
 
