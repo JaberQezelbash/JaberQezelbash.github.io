@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+**Qezelbash-Chamak, J.** & Hicklin, K. (2026). Spline-gated capsule networks with cross-dimensional transformations for nonlinear pose-aware recognition, *Neurocomputing*, 671, 132672. [[View](https://doi.org/10.1016/j.neucom.2026.132672)]
 
 Silva, L., Joiner, D., **Qezelbash-Chamak, J.**, Kim, M., Garvan, C., Berg, M., Weiss, M., Hicklin, K., & Smulian, J. (2025). Longitudinal Fetal Heart Rate Analysis Identifies Neonates with Metabolic Acidemia Requiring Therapeutic Hypothermia. *American Journal of Obstetrics and Gynecology*, ——. [[View](https://www.sciencedirect.com/science/article/pii/S0002937825006738)]
 
