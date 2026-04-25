@@ -17,6 +17,8 @@ Jaber is a Machine Learning Engineer with expertise in machine learning, deep le
 Latest
 ------
 
+- March 2026: Accepted publication: "[Spline-gated capsule networks with cross-dimensional transformations for nonlinear pose-aware recognition](https://doi.org/10.1016/j.neucom.2026.132672)."
+
 - February 2026: Fine-tuned the Qwen2.5-1.5B-Instruct language model to improve its performance on medical Q&A tasks ([GitHub Repo](https://github.com/JaberQezelbash/finetune-Qwen2.5-1.5B-Instruct)).
 
 - December 2025: PhDone!
