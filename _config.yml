@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaber Qezelbash-Chamak"
+title                    : "Jaber Qezelbash Chamak"
 title_separator          : "-"
 name                     : &name "Jaber Qezelbash-Chamak"
 description              : &description "personal description"
