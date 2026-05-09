@@ -19,7 +19,7 @@ Latest
 
 
 
-- May 2026: Built a RAG-based multilingual IT support chatbot using Meta Llama-3.1-8B-Instruct as the generator, BGE-M3 for retrieval, BGE reranking, and FAISS vector search. Fine-tuned the generator with QLoRA SFT on the support-ticket data and evaluated performance using retrieval quality, reranked evidence relevance, lexical F1, ROUGE-L, and generated response quality metrics ([GitHub Repo]((https://github.com/JaberQezelbash/RAG_Llama))).
+- May 2026: Built a RAG-based multilingual IT support chatbot using Meta Llama-3.1-8B-Instruct as the generator, BGE-M3 for retrieval, BGE reranking, and FAISS vector search. Fine-tuned the generator with QLoRA SFT on the support-ticket data and evaluated performance using retrieval quality, reranked evidence relevance, lexical F1, ROUGE-L, and generated response quality metrics ([GitHub Repo](https://github.com/JaberQezelbash/RAG_Llama)).
 
 - Feb 2026: Fine-tuned the Qwen2.5-1.5B-Instruct language model to improve its performance on medical Q&A tasks ([GitHub Repo](https://github.com/JaberQezelbash/finetune-Qwen2.5-1.5B-Instruct)).
 
