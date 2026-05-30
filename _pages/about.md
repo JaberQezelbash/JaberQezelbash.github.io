@@ -18,12 +18,13 @@ Latest
 ------
 
 
+- May 2026: Built a cloud-deployed multi-agent clinical AI backend using LangGraph, FastAPI, and Azure OpenAI/App Service for patient-message triage, specialty routing, mock clinical tool calls, safety checks, and structured responses ([GitHub Repo](https://github.com/JaberQezelbash/LangGraph-AzureAI-Agents)).
 
-- May 2026: Built a RAG-based multilingual IT support chatbot using Meta Llama-3.1-8B-Instruct as the generator, BGE-M3 for retrieval, BGE reranking, and FAISS vector search. Fine-tuned the generator with QLoRA SFT on the support-ticket data and evaluated performance using retrieval quality, reranked evidence relevance, lexical F1, ROUGE-L, and generated response quality metrics ([GitHub Repo](https://github.com/JaberQezelbash/RAG-finetune-Llama-3.1-8B-Instruct)).
+- April 2026: Built a RAG-based multilingual IT support chatbot using Meta Llama-3.1-8B-Instruct as the generator, BGE-M3 for retrieval, BGE reranking, and FAISS vector search. Fine-tuned the generator with QLoRA SFT on the support-ticket data and evaluated performance using retrieval quality, reranked evidence relevance, lexical F1, ROUGE-L, and generated response quality metrics ([GitHub Repo](https://github.com/JaberQezelbash/RAG-finetune-Llama-3.1-8B-Instruct)).
 
-- Feb 2026: Fine-tuned the Qwen2.5-1.5B-Instruct language model to improve its performance on medical Q&A tasks ([GitHub Repo](https://github.com/JaberQezelbash/finetune-Qwen2.5-1.5B-Instruct)).
+- February 2026: Fine-tuned the Qwen2.5-1.5B-Instruct language model to improve its performance on medical Q&A tasks ([GitHub Repo](https://github.com/JaberQezelbash/finetune-Qwen2.5-1.5B-Instruct)).
 
-- Jan 2026: Accepted publication: "[Spline-gated capsule networks with cross-dimensional transformations for nonlinear pose-aware recognition](https://doi.org/10.1016/j.neucom.2026.132672)."
+- January 2026: Accepted publication: "[Spline-gated capsule networks with cross-dimensional transformations for nonlinear pose-aware recognition](https://doi.org/10.1016/j.neucom.2026.132672)."
 
 - December 2025: PhDone!
 
