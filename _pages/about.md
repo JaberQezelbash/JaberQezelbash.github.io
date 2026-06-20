@@ -78,7 +78,6 @@ Services
         <li style="margin-bottom: 0.2em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
       </ul>
     </td>
-
     <td style="border: none !important; vertical-align: top; width: 50%; padding: 0; background: transparent;">
       <ul style="font-size: 0.75em; line-height: 1.1; list-style-type: square; padding-left: 4.4em; margin-top: 0;">
         <li style="margin-bottom: 0.2em;"><em>Informatics in Medicine Unlocked</em></li>
