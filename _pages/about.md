@@ -73,27 +73,21 @@ Services
   <li style="margin-bottom: 0.2em;"><em>International Journal of Computational Intelligence Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Machine Learning and Cybernetics</em></li>
   <li style="margin-bottom: 0.2em;"><em>Archives of Computational Methods in Engineering</em></li>
-
-
-
+  <li style="margin-bottom: 0.2em;"><em>Journal of Data, Information and Management</em></li>
   <li style="margin-bottom: 0.2em;"><em>Physical and Engineering Sciences in Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Intelligent Systems</em></li>
-  <li style="margin-bottom: 0.2em;"><em>Journal of Data, Information and Management</em></li>
+  <li style="margin-bottom: 0.2em;"><em>International Urology and Nephrology</em></li>
   <li style="margin-bottom: 0.2em;"><em>Computational Biology and Chemistry</em></li>
   <li style="margin-bottom: 0.2em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
-
-  <li style="margin-bottom: 0.2em;"><em>International Urology and Nephrology</em></li>
-
   <li style="margin-bottom: 0.2em;"><em>Informatics in Medicine Unlocked</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Machine Vision and Applications</em></li>
   <li style="margin-bottom: 0.2em;"><em>Frontiers in Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.2em;"><em>Forensic Science International</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Artificial Intelligence</em></li>
-  <li style="margin-bottom: 0.2em;"><em>Machine Vision and Applications</em></li>
   <li style="margin-bottom: 0.2em;"><em>Intelligence-Based Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Applied Sciences</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Sustainability</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Neuroscience </em></li>
-
   <li style="margin-bottom: 0.2em;"><em>Abdominal Radiology</em></li>
   <li style="margin-bottom: 0.2em;"><em>BMC Medical Imaging</em></li>
   <li style="margin-bottom: 0.2em;"><em>Transportation letters</em></li>
@@ -106,7 +100,6 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Discover Analytics</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Imaging</em></li>
   <li style="margin-bottom: 0.2em;"><em>Ad Hoc Networks</em></li>
-
   <li style="margin-bottom: 0.2em;"><em>BMC Oral Health</em></li>
   <li style="margin-bottom: 0.2em;"><em>Scientific Reports</em></li>
   <li style="margin-bottom: 0.2em;"><em>BioData Mining</em></li>
