@@ -51,7 +51,7 @@ Latest
 
 Services
 ------
-- Journals Peer Reviewer (over 300 reviews; see my [ORCID](https://orcid.org/0000-0001-8536-7562)):
+- Journals Peer Reviewer (over 300 reviews for the following top-tier journals; see my [ORCID](https://orcid.org/0000-0001-8536-7562)):
 <ul style="font-size: 0.70em; line-height: 1.05; list-style-type: square; padding-left: 4.5em;">
   <li style="margin-bottom: 0.2em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Neural Networks</em></li>
