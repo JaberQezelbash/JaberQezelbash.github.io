@@ -56,29 +56,44 @@ Services
   <li style="margin-bottom: 0.2em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Neural Networks</em></li>
   <li style="margin-bottom: 0.2em;"><em>Information Fusion</em></li>
+  
   <li style="margin-bottom: 0.2em;"><em>Applied Soft Computing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Knowledge-Based Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Artificial Intelligence Review</em></li>
   <li style="margin-bottom: 0.2em;"><em>Journal of Systems Architecture</em></li>
   <li style="margin-bottom: 0.2em;"><em>Expert Systems with Applications</em></li>
+  
   <li style="margin-bottom: 0.2em;"><em>Machine Learning with Applications</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Natural Language Processing Journal</em></li>
   <li style="margin-bottom: 0.2em;"><em>Biomedical Signal Processing and Control</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Medical Informatics</em></li>
   <li style="margin-bottom: 0.2em;"><em>BMC Medical Informatics and Decision Making</em></li>
   <li style="margin-bottom: 0.2em;"><em>Engineering applications of artificial intelligence</em></li>
   <li style="margin-bottom: 0.2em;"><em>Remote Sensing Applications: Society and Environment</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Computational Intelligence Systems</em></li>
+  <li style="margin-bottom: 0.2em;"><em>International Journal of Machine Learning and Cybernetics</em></li>
   <li style="margin-bottom: 0.2em;"><em>Archives of Computational Methods in Engineering</em></li>
+
+
+
+  <li style="margin-bottom: 0.2em;"><em>Physical and Engineering Sciences in Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>International Journal of Intelligent Systems</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Journal of Data, Information and Management</em></li>
   <li style="margin-bottom: 0.2em;"><em>Computational Biology and Chemistry</em></li>
   <li style="margin-bottom: 0.2em;"><em>Journal of Intelligent & Fuzzy Systems</em></li>
+
+  <li style="margin-bottom: 0.2em;"><em>International Urology and Nephrology</em></li>
+
   <li style="margin-bottom: 0.2em;"><em>Informatics in Medicine Unlocked</em></li>
   <li style="margin-bottom: 0.2em;"><em>Frontiers in Artificial Intelligence</em></li>
   <li style="margin-bottom: 0.2em;"><em>Forensic Science International</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Artificial Intelligence</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Machine Vision and Applications</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Intelligence-Based Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Applied Sciences</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Sustainability</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Neuroscience </em></li>
+
   <li style="margin-bottom: 0.2em;"><em>Abdominal Radiology</em></li>
   <li style="margin-bottom: 0.2em;"><em>Transportation letters</em></li>
   <li style="margin-bottom: 0.2em;"><em>Healthcare Analytics</em></li>
@@ -86,10 +101,13 @@ Services
   <li style="margin-bottom: 0.2em;"><em>npj Digital Medicine</em></li>
   <li style="margin-bottom: 0.2em;"><em>Multimedia Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Pediatric Radiology</em></li>
+  <li style="margin-bottom: 0.2em;"><em>BMC Medical Imaging</em></li>
   <li style="margin-bottom: 0.2em;"><em>Cluster Computing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Discover Analytics</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Discover Imaging</em></li>
   <li style="margin-bottom: 0.2em;"><em>BMC Oral Health</em></li>
   <li style="margin-bottom: 0.2em;"><em>Scientific Reports</em></li>
+  <li style="margin-bottom: 0.2em;"><em>Ad Hoc Networks</em></li>
   <li style="margin-bottom: 0.2em;"><em>BioData Mining</em></li>
 </ul>
 
