@@ -51,18 +51,16 @@ Latest
 
 Services
 ------
-- Journals Peer Reviewer:
+- Journals Peer Reviewer (over 300 paper reviews):
 <ul style="font-size: 0.70em; line-height: 1.05; list-style-type: square; padding-left: 4.5em;">
   <li style="margin-bottom: 0.2em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Neural Networks</em></li>
   <li style="margin-bottom: 0.2em;"><em>Information Fusion</em></li>
-  
   <li style="margin-bottom: 0.2em;"><em>Applied Soft Computing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Knowledge-Based Systems</em></li>
   <li style="margin-bottom: 0.2em;"><em>Artificial Intelligence Review</em></li>
   <li style="margin-bottom: 0.2em;"><em>Journal of Systems Architecture</em></li>
   <li style="margin-bottom: 0.2em;"><em>Expert Systems with Applications</em></li>
-  
   <li style="margin-bottom: 0.2em;"><em>Machine Learning with Applications</em></li>
   <li style="margin-bottom: 0.2em;"><em>Natural Language Processing Journal</em></li>
   <li style="margin-bottom: 0.2em;"><em>Biomedical Signal Processing and Control</em></li>
