@@ -17,7 +17,7 @@ Jaber is a Machine Learning Engineer with expertise in machine learning, deep le
 
 
 Latest
------
+------
 
 
 - May 2026: Built a cloud-deployed multi-agent clinical AI backend using LangGraph, FastAPI, and Azure OpenAI/App Service for patient-message triage, specialty routing, mock clinical tool calls, safety checks, and structured responses ([GitHub Repo](https://github.com/JaberQezelbash/LangGraph-AzureAI-Agents) and the [Product](https://app-clinical-langgraph-jaber-5271-afbpbchvfzh5h7ef.eastus2-01.azurewebsites.net/docs#/)).
@@ -53,7 +53,7 @@ Latest
 Services
 ------
 - Journals Peer Reviewer (over 300 reviews for the following top-tier journals; see my [ORCID](https://orcid.org/0000-0001-8536-7562)):
-<ul style="font-size: 0.70em; line-height: 1.05; list-style-type: square; padding-left: 4.5em;">
+<ul style="font-size: 0.71em; line-height: 1.05; list-style-type: square; padding-left: 4.5em;">
   <li style="margin-bottom: 0.2em;"><em>Neurocomputing</em></li>
   <li style="margin-bottom: 0.2em;"><em>Neural Networks</em></li>
   <li style="margin-bottom: 0.2em;"><em>Information Fusion</em></li>
