@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-Jaber is a Machine Learning Engineer with expertise in machine learning, deep learning, and artificial intelligence, currently focusing on large language models and their applications in health informatics. He earned his PhD from University of Florida, focusing on Machine Learning. During his doctoral studies, he developed and published several cutting-edge deep learning–based methodologies for health informatics in high-impact, top-tier journals.
+Jaber Qezelbash Chamak (pronounced “Jayber”) is a Machine Learning Engineer with expertise in machine learning, deep learning, and artificial intelligence, currently focusing on large language models and their applications in health informatics. He earned his PhD from University of Florida, specializing in Machine Learning. During his doctoral studies, he developed and published several cutting-edge deep learning–based methodologies for health informatics in high-impact, top-tier journals.
 
 
 
